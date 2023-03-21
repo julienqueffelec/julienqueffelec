@@ -1,8 +1,33 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> Hello
-I'm a react-native developer and indie maker from France.
+# Hello there 👋
 
-I'm passionate about creating high-quality apps that help people improve their health and fitness. One of my most recent projects is Fitrest. A fitness app that I designed and developed from the ground up. I used react-native to build the app, which allows it to be used on both iOS and Android devices. 
 
-I'm constantly learning and experimenting with new technologies to improve my skills and deliver the best possible user experience. In my free time, I love to stay active by going for runs and hitting the gym.
+# About Me
+- 🏠 working as Lead Mobile at Masteos
+- 📱 working too much with React Native and Expo on side projects
 
-<img src="https://user-images.githubusercontent.com/4365184/206929487-9f9422dd-6006-414f-925f-ab3370056cc3.png" width="50px"/>
+# Tech Stack
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+# GitHub Stats
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+      <thead>
+        <tr>
+          <td>
+            <img
+              src="https://github-readme-stats.vercel.app/api?username=julienqueffelec&show_icons=true&locale=en&theme=tokyonight"
+              alt="GitHub Stats"
+            />
+          </td>
+          <td>
+            <img
+              src="https://streak-stats.demolab.com/?user=julienqueffelec&theme=tokyonight"
+              alt="GitHub Stats"
+            />
+          </td>
+        </tr>
+      </thead>
+    </table>
+
+
+# Contact Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julienqueffelec/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/julienqueffelec)
